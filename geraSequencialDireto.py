@@ -25,7 +25,7 @@ def gerarSequencial(faixaNotas):
         input('Press ENTER to exit')    
     else:
         print("ERRO: QTD IMPAR das faixas de notas\n")
-        inserirFaixas()
+        #inserirFaixas()
 
        
 def inserirFaixas():    
